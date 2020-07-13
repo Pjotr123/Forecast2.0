@@ -1,3 +1,9 @@
+moksha-module-forecasts (20200713bodhi1-1) bionic; urgency=medium
+
+  * Better shelf aligning
+
+ -- Robert Wiley <ylee@bodhilinux.com>  Mon, 13 Jul 2020 05:30:29 -0400
+
 moksha-module-forecasts (20200701bodhi1-1) bionic; urgency=medium
 
   * wttr.in release
